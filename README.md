@@ -1,5 +1,7 @@
 # 💫 About Me:
-👋 Olá! Eu sou o Luciano<br><br>Sou um entusiasta de tecnologia que gosta de resolver problemas e transformar ideias em projetos reais. Gosto de desenvolver projetos úteis e encontrar maneiras criativas de resolver problemas. Sempre estou buscando aprender algo novo, melhorar minhas habilidades e contribuir com projetos que facilitem a vida das pessoas.<br><br>Gosto de explorar novas ferramentas, criar aplicações úteis e compartilhar conhecimento. Aqui no GitHub você encontra alguns dos meus experimentos, códigos e projetos pessoais.
+👋 Olá! Eu sou o Luciano<br><br>Sou um entusiasta de tecnologia e formado em Engenharia de Software. Gosto de transformar ideias em projetos reais, desenvolver soluções úteis e encontrar maneiras criativas de resolver problemas. Estou sempre buscando aprender algo novo, melhorar minhas habilidades e contribuir com projetos que facilitem a vida das pessoas.
+
+Exploro novas ferramentas, crio aplicações práticas e compartilho conhecimento sempre que posso. Aqui no GitHub você encontra alguns dos meus experimentos, códigos e projetos pessoais.
 
 
 ## 🌐 Socials:
